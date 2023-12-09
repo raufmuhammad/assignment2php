@@ -1,0 +1,24 @@
+/* adding style to the buttons */
+.butn{
+ background-color: rgb(29, 82, 174);
+ color: white;
+}
+
+.butn:hover{
+    background-color: rgb(17, 128, 213);
+}
+
+.pad{
+    padding: 3em;
+}
+
+.new{
+    line-height: 2em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.newclr {
+    background-color: rgb(38, 208, 255);
+}
